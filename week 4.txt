@@ -1,9 +1,15 @@
 Introduction/Business Problem :
 
-Every city is built on different circumstances, environments, and different constraints. This project is about to compare the neighborhoods off 2 major columns and how can they be compared with respect to places to eat, better connectivity to several useful regions and how are they distributed around both cities. The places which will be considered are airports, metro, coffee shop, restaurants, schools, college, general stores, hospitals, etc. The audience will be tourists who consider travelling through financial capital of the 2 countries analyzed and search for better neighborhoods suited for their needs.
+Every city is built on different circumstances, environments, and different constraints. 
+This project is about to compare the neighborhoods off 2 major columns and how can they be compared with respect to places to eat,
+better connectivity to several useful regions and how are they distributed around both cities.
+The places which will be considered are airports, metro, coffee shop, restaurants, schools, college, general stores, hospitals, etc.
+The audience will be tourists who consider travelling through financial capital of the 2 countries analyzed and search for better neighborhoods suited for their needs.
 
 
 Data section :
 
-The data used to calculate is available for New York and the other half i.e. for Toronto has been scraped for Wikipedia. Both of the datasets consist of the boroughs, neighborhoods and the locations of them. The foursquare API will be used to analyze the places near these neighborhoods and see the proximity of important places from the corresponding neighborhoods.
+The data used to calculate is available for New York and the other half i.e. for Toronto has been scraped for Wikipedia. 
+Both of the datasets consist of the boroughs, neighborhoods and the locations of them. 
+The foursquare API will be used to analyze the places near these neighborhoods and see the proximity of important places from the corresponding neighborhoods.
  
